@@ -1,5 +1,30 @@
 [![Header](https://camo.githubusercontent.com/d89f5c244fd24a84e3f82c6e37ee8e1aefdec8e7f6a2de6f7871f4070000a01b/68747470733a2f2f7763732e75776f2e63612f7372732f75706c6f61642f62616e6e657266732e706e67)](https://rishavchanda.io)
 
+# 🍽️ Jalpaan – Restaurant Management SaaS Platform
+
+A scalable, modern restaurant management system designed to handle table bookings, orders, inventory, and staff seamlessly. Built using the MERN stack with PostgreSQL for robust data handling and Tailwind CSS for sleek UI.
+
+---
+
+![GitHub Repo stars](https://img.shields.io/github/stars/dheerajmat/jalpaan?style=social)
+![GitHub forks](https://img.shields.io/github/forks/dheerajmat/jalpaan?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/dheerajmat/jalpaan)
+![GitHub license](https://img.shields.io/github/license/dheerajmat/jalpaan)
+![Git](https://img.shields.io/badge/Git-Tracked-F05032?logo=git&logoColor=white)
+![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)
+
+---
+
+### 🛠 Tech Stack
+
+![React](https://img.shields.io/badge/Frontend-React-blue?logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Backend-Node.js-green?logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-336791?logo=postgresql&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Styling-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
+
+---
+
+
 <h1 align="center">Hey 👋, I'm Dheeraj Mathur</h1>
 <h3 align="center">🚀 Full Stack Developer | Problem Solver | ML Enthusiast from India 🇮🇳</h3>
 
